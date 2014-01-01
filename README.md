@@ -6,8 +6,11 @@ My and MrDewDew's Mod for Game Dev Tycoon
 =======
 
 Crew :
+
 MrDewDew (Concept Creator and Coder)
+
 WaveJones (Designer and Graphics Expert)
+
 Resinex112 (Additional Insights)
 
 =======
